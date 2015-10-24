@@ -1,0 +1,45 @@
+.header{
+  margin: auto;
+  border: 2px solid black;
+  text-align: center;
+  color: white;
+  background-color: #260126;
+  border-radius: 5px;
+  font-family: Arial;
+  font-size: 30px;
+}
+
+.side_menu{
+  float: left;
+  background-color: #8C6954;
+  border-radius: 5px;
+  height: 800px;
+  width: 28%
+}
+
+img{
+  height:150px;
+  width: 250px;
+  border-radius: 5px;
+}
+.main{
+  float: right;
+  background-color: #BFAF80;
+  border-radius: 5px;
+  height: 800px;
+  padding-left: 5px;
+  width: 71%;
+  text-align: left;
+
+}
+.footer{
+  clear: both;
+  background-color: #59323C;
+  border: 2px solid #59323C;
+  text-align: center;
+  margin: auto;
+
+}
+html{
+  background-color: #F2EEB3;
+}
